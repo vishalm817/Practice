@@ -25,6 +25,8 @@ public class Engineer extends Employee {
     {
         Engineer e1 = new Engineer();
         e1.label(10000,"Grade-A");
+	 Manager m1 = new Manager();
+        m1.label(20000,"Grade-B");
 
     }
 }
